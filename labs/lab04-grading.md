@@ -7,7 +7,7 @@ Let's convert a number grade to a letter grade, using `if` and `elif` statements
 2. Convert the number grade to a letter grade
 
 ## Numeric Ranges
-
+  #or whatever you feel is fair
 - 90-100: A
 - 80-89: B
 - 70-79: C
